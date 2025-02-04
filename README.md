@@ -6,7 +6,7 @@ Grams (g) to Ounces (oz)
 Kilometers (km) to Miles (mi)
 Millimeters (mm) to Inches (in)
 
-#How to Use:
+# How to Use:
 
 Run the program using the JAR file:
 Copyjava -jar MetricConverter.jar
