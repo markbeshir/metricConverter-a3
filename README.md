@@ -1,13 +1,12 @@
 # metricConverter
 A simple command-line application that converts between different metric and imperial units.
-Supported Conversions
-
+Supported Conversions: 
 Kilograms (kg) to Pounds (lb)
 Grams (g) to Ounces (oz)
 Kilometers (km) to Miles (mi)
 Millimeters (mm) to Inches (in)
 
-How to Use
+#How to Use:
 
 Run the program using the JAR file:
 Copyjava -jar MetricConverter.jar
