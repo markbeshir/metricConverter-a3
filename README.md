@@ -5,8 +5,11 @@ A simple command-line application that converts between different metric and imp
 Supported Conversions: 
 
 Kilograms (kg) to Pounds (lb)
+
 Grams (g) to Ounces (oz)
+
 Kilometers (km) to Miles (mi)
+
 Millimeters (mm) to Inches (in)
 
 # How to Use:
