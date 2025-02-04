@@ -24,7 +24,7 @@ For example:
 
 To exit the program, type either:
 
-exit
+exit or 
 -1
 
 
