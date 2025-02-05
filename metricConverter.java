@@ -1,4 +1,4 @@
-import java.util.Scanner;
+rimport java.util.Scanner;
 
 public class metricConverter {
     public static void main(String[] args) {
